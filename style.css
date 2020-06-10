@@ -101,8 +101,12 @@ footer a:hover {
   }
 }
 @media (max-width: 500px) {
+  .row {
+    margin: 10px;
+  }
+
   .col-sm-6 {
-    margin-top: 10px;
+    margin: 10px;
   }
 }
 .row {
