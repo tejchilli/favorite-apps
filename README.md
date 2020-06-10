@@ -1,3 +1,4 @@
-# Project 0
+# Favorite Apps
+Using basic HTML and CSS to create a website about my 3 favorite mobile UI's
 
-Web Programming with Python and JavaScript
+Hosted on GitHub Pages:
