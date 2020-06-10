@@ -95,12 +95,12 @@ footer a:hover {
 }
 
 /* Classes */
-@media (max-width: 500px) {
+@media (max-width: 600px) {
   .disappear {
     display: none;
   }
 }
-@media (max-width: 500px) {
+@media (max-width: 600px) {
   .row {
     margin: 10px;
   }
