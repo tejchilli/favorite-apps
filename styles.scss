@@ -152,6 +152,12 @@ footer {
   }
 }
 
+@media (max-width: 500px) {
+  .tg {
+    line-height: 150%;
+  }
+}
+
 .card {
   box-shadow: 0 12px 6px -6px;
 }

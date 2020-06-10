@@ -138,8 +138,8 @@ footer a:hover {
   }
 }
 @media (max-width: 500px) {
-  br:before {
-    content: "       ";
+  .tg {
+    line-height: 150%;
   }
 }
 .card {
