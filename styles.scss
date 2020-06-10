@@ -108,9 +108,15 @@ footer {
 
 /* Classes */
 
-@media (max-width: 500px) {
+@media (max-width: 600px) {
   .disappear {
     display: none;
+  }
+}
+
+@media (max-width: 600px) {
+  .col-sm-6 {
+    margin-top: 10px;
   }
 }
 
@@ -149,12 +155,6 @@ footer {
   .text-center::before{
     content:"";
     margin-left:calc(100% - 94%);
-  }
-}
-
-@media (max-width: 500px) {
-  .tg {
-    line-height: 150%;
   }
 }
 
