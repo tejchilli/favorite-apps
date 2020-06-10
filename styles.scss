@@ -145,15 +145,11 @@ footer {
   margin-bottom: 25px;
 }
 
-@media (max-width: 500px) {
-  .col-sm-8 {
-    /*margin-left: 90px;*/
+@media (min-width: 500px) {
+  .text-center::before{
+    content:"";
+    margin-left:calc(100% - 94%);
   }
-}
-
-.text-center::before{
-  content:"";
-  margin-left:calc(100% - 94%);
 }
 
 .card {
