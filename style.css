@@ -137,6 +137,11 @@ footer a:hover {
     margin-left: calc(100% - 94%);
   }
 }
+@media (max-width: 500px) {
+  br:before {
+    content: "       ";
+  }
+}
 .card {
   box-shadow: 0 12px 6px -6px;
 }
