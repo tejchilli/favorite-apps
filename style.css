@@ -100,6 +100,11 @@ footer a:hover {
     display: none;
   }
 }
+@media (max-width: 500px) {
+  .col-sm-6 {
+    margin-top: 10px;
+  }
+}
 .row {
   margin-top: 4%;
   margin-bottom: 50px;
@@ -135,11 +140,6 @@ footer a:hover {
   .text-center::before {
     content: "";
     margin-left: calc(100% - 94%);
-  }
-}
-@media (max-width: 500px) {
-  .tg {
-    line-height: 150%;
   }
 }
 .card {
